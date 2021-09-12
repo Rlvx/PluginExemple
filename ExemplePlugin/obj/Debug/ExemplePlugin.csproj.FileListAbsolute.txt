@@ -1,0 +1,7 @@
+C:\Users\romai\Documents\Plugins\ExemplePlugin.dll
+C:\Users\romai\Documents\Plugins\ExemplePlugin.pdb
+C:\Users\romai\RiderProjects\ExemplePlugin\ExemplePlugin\obj\Debug\ExemplePlugin.csprojAssemblyReference.cache
+C:\Users\romai\RiderProjects\ExemplePlugin\ExemplePlugin\obj\Debug\ExemplePlugin.csproj.CoreCompileInputs.cache
+C:\Users\romai\RiderProjects\ExemplePlugin\ExemplePlugin\obj\Debug\ExemplePlugin.csproj.CopyComplete
+C:\Users\romai\RiderProjects\ExemplePlugin\ExemplePlugin\obj\Debug\ExemplePlugin.dll
+C:\Users\romai\RiderProjects\ExemplePlugin\ExemplePlugin\obj\Debug\ExemplePlugin.pdb
