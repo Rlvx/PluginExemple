@@ -143,8 +143,7 @@ namespace ExemplePlugin
             {
                 key ++;
             }
-            //UnturnedLog.error("-> Request "+name+" [id : "+key+"]");
-            
+
             RepQuery.Add(key.ToString(), null);
             
             var t = new Thread(query);
@@ -166,10 +165,7 @@ namespace ExemplePlugin
                     answer_query = RepQuery[key.ToString()];
                 }
             }
-            catch
-            {
-                //UnturnedLog.error("-> null Query");
-            }
+            catch {}
 
 
 
@@ -194,7 +190,7 @@ namespace ExemplePlugin
             }
             catch (Exception ex)
             {
-                Console.WriteLine(ex);
+                UnturnedLog.error(ex);
             }
         }
 

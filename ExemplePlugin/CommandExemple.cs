@@ -46,27 +46,23 @@ namespace TextEffect
         
         public void Execute(IRocketPlayer caller, params string[] command)
         {
-            // /exp [amount]
-            // command[0] -> amount
             
             UnturnedPlayer player = (UnturnedPlayer) caller;
             
-            if (command.Length == 1)
-            {
-                if (uint.TryParse(command[0], out uint value))
-                {
-                    UnturnedChat.Say(caller,string.Format("Vous avez gagné {0} experiences",value.ToString()),Color.magenta); 
-                    player.Experience += value;
-                }
-                else
-                {
-                    UnturnedChat.Say(caller,"Syntaxe : /exp [amount:int]",Color.magenta); 
-                }
-            }
-            else
+            if (command.Length != 1)
             {
                 UnturnedChat.Say(caller,"Syntaxe : /exp [amount:int]",Color.magenta);
+                return;
             }
+
+            if (!uint.TryParse(command[0], out uint value))
+            {
+                UnturnedChat.Say(caller,"Syntaxe : /exp [amount:int]",Color.magenta); 
+                return;
+            }
+            
+            UnturnedChat.Say(caller,string.Format("Vous avez gagné {0} experiences",value.ToString()),Color.magenta); 
+            player.Experience += value;
                 
         }
     }
