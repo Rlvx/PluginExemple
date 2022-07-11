@@ -22,6 +22,109 @@
 	<s:Boolean x:Key="/Default/AddReferences/RecentPaths/=C_003A_005CUsers_005Cromai_005CRiderProjects_005CExemplePlugin_005CLibrairies_005CUnturnedLib_005CUnityEngine_002Edll/@EntryIndexedValue">True</s:Boolean>
 	<s:Boolean x:Key="/Default/AddReferences/RecentPaths/=C_003A_005CUsers_005Cromai_005CRiderProjects_005CExemplePlugin_005CLibrairies_005CUnturnedLib_005CUnityEngine_002EPhysicsModule_002Edll/@EntryIndexedValue">True</s:Boolean>
 	<s:Boolean x:Key="/Default/AddReferences/RecentPaths/=C_003A_005CUsers_005Cromai_005CRiderProjects_005CExemplePlugin_005CLibrairies_005CUnturnedLib_005CUnityEngine_002EUI_002Edll/@EntryIndexedValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/AddReferences/RecentPaths/=C_003A_005CUsers_005CRom_005Csource_005Crepos_005CTextEffect_005CLibrairies_005C0Harmony_002Edll/@EntryIndexedValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/AddReferences/RecentPaths/=C_003A_005CUsers_005CRom_005Csource_005Crepos_005CTextEffect_005CLibrairies_005CAssembly_002DCSharp_002Edll/@EntryIndexedValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/AddReferences/RecentPaths/=C_003A_005CUsers_005CRom_005Csource_005Crepos_005CTextEffect_005CLibrairies_005CBouncyCastle_002ECrypto_002Edll/@EntryIndexedValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/AddReferences/RecentPaths/=C_003A_005CUsers_005CRom_005Csource_005Crepos_005CTextEffect_005CLibrairies_005Ccom_002Erlabrecque_002Esteamworks_002Enet_002Edll/@EntryIndexedValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/AddReferences/RecentPaths/=C_003A_005CUsers_005CRom_005Csource_005Crepos_005CTextEffect_005CLibrairies_005CDapper_002Edll/@EntryIndexedValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/AddReferences/RecentPaths/=C_003A_005CUsers_005CRom_005Csource_005Crepos_005CTextEffect_005CLibrairies_005CGoogle_002EProtobuf_002Edll/@EntryIndexedValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/AddReferences/RecentPaths/=C_003A_005CUsers_005CRom_005Csource_005Crepos_005CTextEffect_005CLibrairies_005CI18N_002D2_002Edll/@EntryIndexedValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/AddReferences/RecentPaths/=C_003A_005CUsers_005CRom_005Csource_005Crepos_005CTextEffect_005CLibrairies_005CI18N_002Edll/@EntryIndexedValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/AddReferences/RecentPaths/=C_003A_005CUsers_005CRom_005Csource_005Crepos_005CTextEffect_005CLibrairies_005CI18N_002Ev2_002Edll/@EntryIndexedValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/AddReferences/RecentPaths/=C_003A_005CUsers_005CRom_005Csource_005Crepos_005CTextEffect_005CLibrairies_005CI18N_002Ev2_002EWest_002Edll/@EntryIndexedValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/AddReferences/RecentPaths/=C_003A_005CUsers_005CRom_005Csource_005Crepos_005CTextEffect_005CLibrairies_005CI18N_002EWest_002D2_002Edll/@EntryIndexedValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/AddReferences/RecentPaths/=C_003A_005CUsers_005CRom_005Csource_005Crepos_005CTextEffect_005CLibrairies_005CI18N_002EWest_002Edll/@EntryIndexedValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/AddReferences/RecentPaths/=C_003A_005CUsers_005CRom_005Csource_005Crepos_005CTextEffect_005CLibrairies_005CI18N_002EWestv4_002Edll/@EntryIndexedValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/AddReferences/RecentPaths/=C_003A_005CUsers_005CRom_005Csource_005Crepos_005CTextEffect_005CLibrairies_005CI18Nv4_002Edll/@EntryIndexedValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/AddReferences/RecentPaths/=C_003A_005CUsers_005CRom_005Csource_005Crepos_005CTextEffect_005CLibrairies_005CImperialPluginsNativeLoader_002Edll/@EntryIndexedValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/AddReferences/RecentPaths/=C_003A_005CUsers_005CRom_005Csource_005Crepos_005CTextEffect_005CLibrairies_005CImperialPluginsNativeLoader_002Eso/@EntryIndexedValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/AddReferences/RecentPaths/=C_003A_005CUsers_005CRom_005Csource_005Crepos_005CTextEffect_005CLibrairies_005CK4os_002ECompression_002ELZ4_002Edll/@EntryIndexedValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/AddReferences/RecentPaths/=C_003A_005CUsers_005CRom_005Csource_005Crepos_005CTextEffect_005CLibrairies_005Cmscorlib_002Edll/@EntryIndexedValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/AddReferences/RecentPaths/=C_003A_005CUsers_005CRom_005Csource_005Crepos_005CTextEffect_005CLibrairies_005CMySql_002EData_002D6_002E8_002E8_002E0_002Edll/@EntryIndexedValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/AddReferences/RecentPaths/=C_003A_005CUsers_005CRom_005Csource_005Crepos_005CTextEffect_005CLibrairies_005CMySql_002EData_002D6_002E9_002E8_002Edll/@EntryIndexedValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/AddReferences/RecentPaths/=C_003A_005CUsers_005CRom_005Csource_005Crepos_005CTextEffect_005CLibrairies_005CMySql_002EData_002D8_002E0_002E18_002Edll/@EntryIndexedValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/AddReferences/RecentPaths/=C_003A_005CUsers_005CRom_005Csource_005Crepos_005CTextEffect_005CLibrairies_005CMySql_002EData_002Edll/@EntryIndexedValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/AddReferences/RecentPaths/=C_003A_005CUsers_005CRom_005Csource_005Crepos_005CTextEffect_005CLibrairies_005Cnetstandard_002Edll/@EntryIndexedValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/AddReferences/RecentPaths/=C_003A_005CUsers_005CRom_005Csource_005Crepos_005CTextEffect_005CLibrairies_005CNewtonsoft_002EJson_002Edll/@EntryIndexedValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/AddReferences/RecentPaths/=C_003A_005CUsers_005CRom_005Csource_005Crepos_005CTextEffect_005CLibrairies_005CRenci_002ESshNet_002Edll/@EntryIndexedValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/AddReferences/RecentPaths/=C_003A_005CUsers_005CRom_005Csource_005Crepos_005CTextEffect_005CLibrairies_005CRestSharp_002Edll/@EntryIndexedValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/AddReferences/RecentPaths/=C_003A_005CUsers_005CRom_005Csource_005Crepos_005CTextEffect_005CLibrairies_005CRocket_002EAPI_002Edll/@EntryIndexedValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/AddReferences/RecentPaths/=C_003A_005CUsers_005CRom_005Csource_005Crepos_005CTextEffect_005CLibrairies_005CRocket_002ECore_002Edll/@EntryIndexedValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/AddReferences/RecentPaths/=C_003A_005CUsers_005CRom_005Csource_005Crepos_005CTextEffect_005CLibrairies_005CRocket_002EUnturned_002Edll/@EntryIndexedValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/AddReferences/RecentPaths/=C_003A_005CUsers_005CRom_005Csource_005Crepos_005CTextEffect_005CLibrairies_005CSDG_002ENetPak_002ERuntime_002Edll/@EntryIndexedValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/AddReferences/RecentPaths/=C_003A_005CUsers_005CRom_005Csource_005Crepos_005CTextEffect_005CLibrairies_005CSDG_002ENetTransport_002Edll/@EntryIndexedValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/AddReferences/RecentPaths/=C_003A_005CUsers_005CRom_005Csource_005Crepos_005CTextEffect_005CLibrairies_005CSteamworks_002ENET_002Edll/@EntryIndexedValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/AddReferences/RecentPaths/=C_003A_005CUsers_005CRom_005Csource_005Crepos_005CTextEffect_005CLibrairies_005CSystem_002EConfiguration_002EInstall_002Edll/@EntryIndexedValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/AddReferences/RecentPaths/=C_003A_005CUsers_005CRom_005Csource_005Crepos_005CTextEffect_005CLibrairies_005CSystem_002EConfiguration_002EInstallv4_002Edll/@EntryIndexedValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/AddReferences/RecentPaths/=C_003A_005CUsers_005CRom_005Csource_005Crepos_005CTextEffect_005CLibrairies_005CSystem_002EData_002Edll/@EntryIndexedValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/AddReferences/RecentPaths/=C_003A_005CUsers_005CRom_005Csource_005Crepos_005CTextEffect_005CLibrairies_005CSystem_002Edll/@EntryIndexedValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/AddReferences/RecentPaths/=C_003A_005CUsers_005CRom_005Csource_005Crepos_005CTextEffect_005CLibrairies_005CSystem_002EIO_002ECompression_002Edll/@EntryIndexedValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/AddReferences/RecentPaths/=C_003A_005CUsers_005CRom_005Csource_005Crepos_005CTextEffect_005CLibrairies_005CSystem_002EManagement_002D4_002Edll/@EntryIndexedValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/AddReferences/RecentPaths/=C_003A_005CUsers_005CRom_005Csource_005Crepos_005CTextEffect_005CLibrairies_005CSystem_002EManagement_002Edll/@EntryIndexedValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/AddReferences/RecentPaths/=C_003A_005CUsers_005CRom_005Csource_005Crepos_005CTextEffect_005CLibrairies_005CSystem_002EMemory_002Edll/@EntryIndexedValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/AddReferences/RecentPaths/=C_003A_005CUsers_005CRom_005Csource_005Crepos_005CTextEffect_005CLibrairies_005CSystem_002ENet_002EHttp_002Edll/@EntryIndexedValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/AddReferences/RecentPaths/=C_003A_005CUsers_005CRom_005Csource_005Crepos_005CTextEffect_005CLibrairies_005CSystem_002ENet_002EPrimitives_002Edll/@EntryIndexedValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/AddReferences/RecentPaths/=C_003A_005CUsers_005CRom_005Csource_005Crepos_005CTextEffect_005CLibrairies_005CSystem_002ERuntime_002ECompilerServices_002EUnsafe_002Edll/@EntryIndexedValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/AddReferences/RecentPaths/=C_003A_005CUsers_005CRom_005Csource_005Crepos_005CTextEffect_005CLibrairies_005CSystem_002ERuntime_002Edll/@EntryIndexedValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/AddReferences/RecentPaths/=C_003A_005CUsers_005CRom_005Csource_005Crepos_005CTextEffect_005CLibrairies_005CSystem_002ERuntime_002ESerialization_002Edll/@EntryIndexedValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/AddReferences/RecentPaths/=C_003A_005CUsers_005CRom_005Csource_005Crepos_005CTextEffect_005CLibrairies_005CSystem_002ETransactions_002Edll/@EntryIndexedValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/AddReferences/RecentPaths/=C_003A_005CUsers_005CRom_005Csource_005Crepos_005CTextEffect_005CLibrairies_005CSystem_002EWeb_002Edll/@EntryIndexedValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/AddReferences/RecentPaths/=C_003A_005CUsers_005CRom_005Csource_005Crepos_005CTextEffect_005CLibrairies_005CSystem_002EXml_002ELinq_002Edll/@EntryIndexedValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/AddReferences/RecentPaths/=C_003A_005CUsers_005CRom_005Csource_005Crepos_005CTextEffect_005CLibrairies_005CUnityEngine_002ECoreModule_002Edll/@EntryIndexedValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/AddReferences/RecentPaths/=C_003A_005CUsers_005CRom_005Csource_005Crepos_005CTextEffect_005CLibrairies_005CUnityEngine_002Edll/@EntryIndexedValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/AddReferences/RecentPaths/=C_003A_005CUsers_005CRom_005Csource_005Crepos_005CTextEffect_005CLibrairies_005CUnityEngine_002EImageConversionModule_002Edll/@EntryIndexedValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/AddReferences/RecentPaths/=C_003A_005CUsers_005CRom_005Csource_005Crepos_005CTextEffect_005CLibrairies_005CUnityEngine_002EPhysicsModule_002Edll/@EntryIndexedValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/AddReferences/RecentPaths/=C_003A_005CUsers_005CRom_005Csource_005Crepos_005CTextEffect_005CLibrairies_005CUnityEngine_002EUI_002Edll/@EntryIndexedValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/AddReferences/RecentPaths/=C_003A_005CUsers_005CRom_005Csource_005Crepos_005CTextEffect_005CLibrairies_005CWindowsBase_002Edll/@EntryIndexedValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/AddReferences/RecentPaths/=E_003A_005CPlugins_005CPluginExemple_005CLibrairies_005C0Harmony_002Edll/@EntryIndexedValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/AddReferences/RecentPaths/=E_003A_005CPlugins_005CPluginExemple_005CLibrairies_005CAssembly_002DCSharp_002Edll/@EntryIndexedValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/AddReferences/RecentPaths/=E_003A_005CPlugins_005CPluginExemple_005CLibrairies_005CBouncyCastle_002ECrypto_002Edll/@EntryIndexedValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/AddReferences/RecentPaths/=E_003A_005CPlugins_005CPluginExemple_005CLibrairies_005Ccom_002Erlabrecque_002Esteamworks_002Enet_002Edll/@EntryIndexedValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/AddReferences/RecentPaths/=E_003A_005CPlugins_005CPluginExemple_005CLibrairies_005CDapper_002Edll/@EntryIndexedValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/AddReferences/RecentPaths/=E_003A_005CPlugins_005CPluginExemple_005CLibrairies_005CGoogle_002EProtobuf_002Edll/@EntryIndexedValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/AddReferences/RecentPaths/=E_003A_005CPlugins_005CPluginExemple_005CLibrairies_005CI18N_002D2_002Edll/@EntryIndexedValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/AddReferences/RecentPaths/=E_003A_005CPlugins_005CPluginExemple_005CLibrairies_005CI18N_002Ev2_002Edll/@EntryIndexedValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/AddReferences/RecentPaths/=E_003A_005CPlugins_005CPluginExemple_005CLibrairies_005CI18N_002Ev2_002EWest_002Edll/@EntryIndexedValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/AddReferences/RecentPaths/=E_003A_005CPlugins_005CPluginExemple_005CLibrairies_005CI18N_002EWest_002D2_002Edll/@EntryIndexedValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/AddReferences/RecentPaths/=E_003A_005CPlugins_005CPluginExemple_005CLibrairies_005CI18N_002EWest_002Edll/@EntryIndexedValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/AddReferences/RecentPaths/=E_003A_005CPlugins_005CPluginExemple_005CLibrairies_005CI18N_002EWestv4_002Edll/@EntryIndexedValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/AddReferences/RecentPaths/=E_003A_005CPlugins_005CPluginExemple_005CLibrairies_005CI18Nv4_002Edll/@EntryIndexedValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/AddReferences/RecentPaths/=E_003A_005CPlugins_005CPluginExemple_005CLibrairies_005CImperialPluginsNativeLoader_002Edll/@EntryIndexedValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/AddReferences/RecentPaths/=E_003A_005CPlugins_005CPluginExemple_005CLibrairies_005CImperialPluginsNativeLoader_002Eso/@EntryIndexedValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/AddReferences/RecentPaths/=E_003A_005CPlugins_005CPluginExemple_005CLibrairies_005CK4os_002ECompression_002ELZ4_002Edll/@EntryIndexedValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/AddReferences/RecentPaths/=E_003A_005CPlugins_005CPluginExemple_005CLibrairies_005CMySql_002EData_002D6_002E8_002E8_002E0_002Edll/@EntryIndexedValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/AddReferences/RecentPaths/=E_003A_005CPlugins_005CPluginExemple_005CLibrairies_005CMySql_002EData_002D6_002E9_002E8_002Edll/@EntryIndexedValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/AddReferences/RecentPaths/=E_003A_005CPlugins_005CPluginExemple_005CLibrairies_005CMySql_002EData_002D8_002E0_002E18_002Edll/@EntryIndexedValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/AddReferences/RecentPaths/=E_003A_005CPlugins_005CPluginExemple_005CLibrairies_005CMySql_002EData_002Edll/@EntryIndexedValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/AddReferences/RecentPaths/=E_003A_005CPlugins_005CPluginExemple_005CLibrairies_005Cnetstandard_002Edll/@EntryIndexedValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/AddReferences/RecentPaths/=E_003A_005CPlugins_005CPluginExemple_005CLibrairies_005CNewtonsoft_002EJson_002Edll/@EntryIndexedValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/AddReferences/RecentPaths/=E_003A_005CPlugins_005CPluginExemple_005CLibrairies_005CRenci_002ESshNet_002Edll/@EntryIndexedValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/AddReferences/RecentPaths/=E_003A_005CPlugins_005CPluginExemple_005CLibrairies_005CRestSharp_002Edll/@EntryIndexedValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/AddReferences/RecentPaths/=E_003A_005CPlugins_005CPluginExemple_005CLibrairies_005CRocket_002EAPI_002Edll/@EntryIndexedValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/AddReferences/RecentPaths/=E_003A_005CPlugins_005CPluginExemple_005CLibrairies_005CRocket_002ECore_002Edll/@EntryIndexedValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/AddReferences/RecentPaths/=E_003A_005CPlugins_005CPluginExemple_005CLibrairies_005CRocket_002EUnturned_002Edll/@EntryIndexedValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/AddReferences/RecentPaths/=E_003A_005CPlugins_005CPluginExemple_005CLibrairies_005CSDG_002ENetTransport_002Edll/@EntryIndexedValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/AddReferences/RecentPaths/=E_003A_005CPlugins_005CPluginExemple_005CLibrairies_005CSteamworks_002ENET_002Edll/@EntryIndexedValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/AddReferences/RecentPaths/=E_003A_005CPlugins_005CPluginExemple_005CLibrairies_005CSystem_002EConfiguration_002EInstall_002Edll/@EntryIndexedValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/AddReferences/RecentPaths/=E_003A_005CPlugins_005CPluginExemple_005CLibrairies_005CSystem_002EConfiguration_002EInstallv4_002Edll/@EntryIndexedValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/AddReferences/RecentPaths/=E_003A_005CPlugins_005CPluginExemple_005CLibrairies_005CSystem_002EData_002Edll/@EntryIndexedValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/AddReferences/RecentPaths/=E_003A_005CPlugins_005CPluginExemple_005CLibrairies_005CSystem_002Edll/@EntryIndexedValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/AddReferences/RecentPaths/=E_003A_005CPlugins_005CPluginExemple_005CLibrairies_005CSystem_002EIO_002ECompression_002Edll/@EntryIndexedValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/AddReferences/RecentPaths/=E_003A_005CPlugins_005CPluginExemple_005CLibrairies_005CSystem_002EManagement_002D4_002Edll/@EntryIndexedValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/AddReferences/RecentPaths/=E_003A_005CPlugins_005CPluginExemple_005CLibrairies_005CSystem_002EManagement_002Edll/@EntryIndexedValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/AddReferences/RecentPaths/=E_003A_005CPlugins_005CPluginExemple_005CLibrairies_005CSystem_002EMemory_002Edll/@EntryIndexedValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/AddReferences/RecentPaths/=E_003A_005CPlugins_005CPluginExemple_005CLibrairies_005CSystem_002ENet_002EHttp_002Edll/@EntryIndexedValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/AddReferences/RecentPaths/=E_003A_005CPlugins_005CPluginExemple_005CLibrairies_005CSystem_002ENet_002EPrimitives_002Edll/@EntryIndexedValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/AddReferences/RecentPaths/=E_003A_005CPlugins_005CPluginExemple_005CLibrairies_005CSystem_002ERuntime_002ECompilerServices_002EUnsafe_002Edll/@EntryIndexedValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/AddReferences/RecentPaths/=E_003A_005CPlugins_005CPluginExemple_005CLibrairies_005CSystem_002ERuntime_002Edll/@EntryIndexedValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/AddReferences/RecentPaths/=E_003A_005CPlugins_005CPluginExemple_005CLibrairies_005CSystem_002ERuntime_002ESerialization_002Edll/@EntryIndexedValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/AddReferences/RecentPaths/=E_003A_005CPlugins_005CPluginExemple_005CLibrairies_005CSystem_002ETransactions_002Edll/@EntryIndexedValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/AddReferences/RecentPaths/=E_003A_005CPlugins_005CPluginExemple_005CLibrairies_005CSystem_002EWeb_002Edll/@EntryIndexedValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/AddReferences/RecentPaths/=E_003A_005CPlugins_005CPluginExemple_005CLibrairies_005CSystem_002EXml_002ELinq_002Edll/@EntryIndexedValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/AddReferences/RecentPaths/=E_003A_005CPlugins_005CPluginExemple_005CLibrairies_005CUnityEngine_002ECoreModule_002Edll/@EntryIndexedValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/AddReferences/RecentPaths/=E_003A_005CPlugins_005CPluginExemple_005CLibrairies_005CUnityEngine_002Edll/@EntryIndexedValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/AddReferences/RecentPaths/=E_003A_005CPlugins_005CPluginExemple_005CLibrairies_005CUnityEngine_002EPhysicsModule_002Edll/@EntryIndexedValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/AddReferences/RecentPaths/=E_003A_005CPlugins_005CPluginExemple_005CLibrairies_005CUnityEngine_002EUI_002Edll/@EntryIndexedValue">True</s:Boolean>
 	<s:Boolean x:Key="/Default/AddReferences/RecentPaths/=_002Fhome_002Fweb_002Dlog4j_002FRiderProjects_002FPluginExemple_002FLibrairies_002F0Harmony_002Edll/@EntryIndexedValue">True</s:Boolean>
 	<s:Boolean x:Key="/Default/AddReferences/RecentPaths/=_002Fhome_002Fweb_002Dlog4j_002FRiderProjects_002FPluginExemple_002FLibrairies_002FAssembly_002DCSharp_002Edll/@EntryIndexedValue">True</s:Boolean>
 	<s:Boolean x:Key="/Default/AddReferences/RecentPaths/=_002Fhome_002Fweb_002Dlog4j_002FRiderProjects_002FPluginExemple_002FLibrairies_002FBouncyCastle_002ECrypto_002Edll/@EntryIndexedValue">True</s:Boolean>
@@ -70,4 +173,6 @@
 	<s:Boolean x:Key="/Default/AddReferences/RecentPaths/=_002Fhome_002Fweb_002Dlog4j_002FRiderProjects_002FPluginExemple_002FLibrairies_002FUnityEngine_002Edll/@EntryIndexedValue">True</s:Boolean>
 	<s:Boolean x:Key="/Default/AddReferences/RecentPaths/=_002Fhome_002Fweb_002Dlog4j_002FRiderProjects_002FPluginExemple_002FLibrairies_002FUnityEngine_002EPhysicsModule_002Edll/@EntryIndexedValue">True</s:Boolean>
 	<s:Boolean x:Key="/Default/AddReferences/RecentPaths/=_002Fhome_002Fweb_002Dlog4j_002FRiderProjects_002FPluginExemple_002FLibrairies_002FUnityEngine_002EUI_002Edll/@EntryIndexedValue">True</s:Boolean>
-	<s:String x:Key="/Default/CodeInspection/PencilsConfiguration/ActualSeverity/@EntryValue">ERROR</s:String></wpf:ResourceDictionary>
+	<s:String x:Key="/Default/CodeInspection/PencilsConfiguration/ActualSeverity/@EntryValue">ERROR</s:String>
+	<s:String x:Key="/Default/Environment/Hierarchy/Build/BuildTool/CustomBuildToolPath/@EntryValue">C:\Users\Rom\.dotnet\sdk\3.1.202\MSBuild.dll</s:String>
+	<s:Int64 x:Key="/Default/Environment/Hierarchy/Build/BuildTool/MsbuildVersion/@EntryValue">1048576</s:Int64></wpf:ResourceDictionary>

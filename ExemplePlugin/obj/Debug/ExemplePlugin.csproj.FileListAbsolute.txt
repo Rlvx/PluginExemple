@@ -5,3 +5,12 @@ C:\Users\romai\RiderProjects\ExemplePlugin\ExemplePlugin\obj\Debug\ExemplePlugin
 C:\Users\romai\RiderProjects\ExemplePlugin\ExemplePlugin\obj\Debug\ExemplePlugin.csproj.CopyComplete
 C:\Users\romai\RiderProjects\ExemplePlugin\ExemplePlugin\obj\Debug\ExemplePlugin.dll
 C:\Users\romai\RiderProjects\ExemplePlugin\ExemplePlugin\obj\Debug\ExemplePlugin.pdb
+E:\Plugins\PluginExemple\ExemplePlugin\obj\Debug\ExemplePlugin.csproj.CoreCompileInputs.cache
+E:\Plugins\PluginExemple\ExemplePlugin\obj\Debug\ExemplePlugin.dll
+E:\Plugins\PluginExemple\ExemplePlugin\obj\Debug\ExemplePlugin.pdb
+C:\Users\Rom\Desktop\Aspect\Dev_Plugin\ExemplePlugin.dll
+C:\Users\Rom\Desktop\Aspect\Dev_Plugin\ExemplePlugin.pdb
+E:\Plugins\PluginExemple\ExemplePlugin\obj\Debug\ExemplePlugin.csproj.CopyComplete
+F:\SteamCMD\steamapps\common\U3DS\Servers\Default\Rocket\Plugins\ExemplePlugin.dll
+F:\SteamCMD\steamapps\common\U3DS\Servers\Default\Rocket\Plugins\ExemplePlugin.pdb
+E:\Plugins\PluginExemple\ExemplePlugin\obj\Debug\ExemplePlugin.csprojAssemblyReference.cache

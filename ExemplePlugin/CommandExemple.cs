@@ -1,16 +1,10 @@
-using System;
-using Rocket.Unturned.Player;
-using SDG.Unturned;
-using UnityEngine;
-using Rocket.API;
+
+
 using System.Collections.Generic;
-using System.Diagnostics;
-using System.Linq;
-using System.Threading.Tasks;
+using Rocket.API;
 using Rocket.Unturned.Chat;
-using SDG.Framework.Utilities;
-using UnityEngine.UI;
-using Object = System.Object;
+using Rocket.Unturned.Player;
+using UnityEngine;
 
 namespace TextEffect
 {

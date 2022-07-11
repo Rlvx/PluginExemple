@@ -2,434 +2,27 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f5aedcb7-34e7-459d-8525-e4f79efc65b8" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/ExemplePlugin/DBConnectorExemple.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ExemplePlugin/packages.config" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librairies/0Harmony.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librairies/Assembly-CSharp.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librairies/BouncyCastle.Crypto.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librairies/Dapper.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librairies/Google.Protobuf.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librairies/I18N-2.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librairies/I18N.West-2.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librairies/I18N.West.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librairies/I18N.Westv4.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librairies/I18N.v2.West.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librairies/I18N.v2.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librairies/I18Nv4.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librairies/ImperialPluginsNativeLoader.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librairies/ImperialPluginsNativeLoader.so" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librairies/K4os.Compression.LZ4.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librairies/MySql.Data-6.8.8.0.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librairies/MySql.Data-6.9.8.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librairies/MySql.Data-8.0.18.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librairies/MySql.Data.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librairies/Newtonsoft.Json.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librairies/Renci.SshNet.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librairies/RestSharp.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librairies/Rocket.API.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librairies/Rocket.Core.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librairies/Rocket.Unturned.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librairies/SDG.NetTransport.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librairies/Steamworks.NET.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librairies/System.Configuration.Install.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librairies/System.Configuration.Installv4.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librairies/System.Data.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librairies/System.IO.Compression.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librairies/System.Management-4.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librairies/System.Management.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librairies/System.Memory.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librairies/System.Net.Http.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librairies/System.Net.Primitives.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librairies/System.Runtime.CompilerServices.Unsafe.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librairies/System.Runtime.Serialization.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librairies/System.Runtime.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librairies/System.Transactions.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librairies/System.Web.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librairies/System.Xml.Linq.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librairies/System.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librairies/UnityEngine.CoreModule.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librairies/UnityEngine.PhysicsModule.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librairies/UnityEngine.UI.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librairies/UnityEngine.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librairies/com.rlabrecque.steamworks.net.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librairies/netstandard.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/Microsoft.NETFramework.ReferenceAssemblies.net472.1.0.2/.signature.p7s" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/Microsoft.NETFramework.ReferenceAssemblies.net472.1.0.2/Microsoft.NETFramework.ReferenceAssemblies.net472.1.0.2.nupkg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/Microsoft.NETFramework.ReferenceAssemblies.net472.1.0.2/build/.NETFramework/v4.7.2/Accessibility.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/Microsoft.NETFramework.ReferenceAssemblies.net472.1.0.2/build/.NETFramework/v4.7.2/Accessibility.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/Microsoft.NETFramework.ReferenceAssemblies.net472.1.0.2/build/.NETFramework/v4.7.2/CustomMarshalers.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/Microsoft.NETFramework.ReferenceAssemblies.net472.1.0.2/build/.NETFramework/v4.7.2/CustomMarshalers.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/Microsoft.NETFramework.ReferenceAssemblies.net472.1.0.2/build/.NETFramework/v4.7.2/Facades/Microsoft.Win32.Primitives.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/Microsoft.NETFramework.ReferenceAssemblies.net472.1.0.2/build/.NETFramework/v4.7.2/Facades/System.AppContext.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/Microsoft.NETFramework.ReferenceAssemblies.net472.1.0.2/build/.NETFramework/v4.7.2/Facades/System.Collections.Concurrent.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/Microsoft.NETFramework.ReferenceAssemblies.net472.1.0.2/build/.NETFramework/v4.7.2/Facades/System.Collections.NonGeneric.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/Microsoft.NETFramework.ReferenceAssemblies.net472.1.0.2/build/.NETFramework/v4.7.2/Facades/System.Collections.Specialized.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/Microsoft.NETFramework.ReferenceAssemblies.net472.1.0.2/build/.NETFramework/v4.7.2/Facades/System.Collections.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/Microsoft.NETFramework.ReferenceAssemblies.net472.1.0.2/build/.NETFramework/v4.7.2/Facades/System.ComponentModel.Annotations.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/Microsoft.NETFramework.ReferenceAssemblies.net472.1.0.2/build/.NETFramework/v4.7.2/Facades/System.ComponentModel.EventBasedAsync.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/Microsoft.NETFramework.ReferenceAssemblies.net472.1.0.2/build/.NETFramework/v4.7.2/Facades/System.ComponentModel.Primitives.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/Microsoft.NETFramework.ReferenceAssemblies.net472.1.0.2/build/.NETFramework/v4.7.2/Facades/System.ComponentModel.TypeConverter.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/Microsoft.NETFramework.ReferenceAssemblies.net472.1.0.2/build/.NETFramework/v4.7.2/Facades/System.ComponentModel.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/Microsoft.NETFramework.ReferenceAssemblies.net472.1.0.2/build/.NETFramework/v4.7.2/Facades/System.Console.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/Microsoft.NETFramework.ReferenceAssemblies.net472.1.0.2/build/.NETFramework/v4.7.2/Facades/System.Data.Common.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/Microsoft.NETFramework.ReferenceAssemblies.net472.1.0.2/build/.NETFramework/v4.7.2/Facades/System.Diagnostics.Contracts.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/Microsoft.NETFramework.ReferenceAssemblies.net472.1.0.2/build/.NETFramework/v4.7.2/Facades/System.Diagnostics.Debug.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/Microsoft.NETFramework.ReferenceAssemblies.net472.1.0.2/build/.NETFramework/v4.7.2/Facades/System.Diagnostics.FileVersionInfo.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/Microsoft.NETFramework.ReferenceAssemblies.net472.1.0.2/build/.NETFramework/v4.7.2/Facades/System.Diagnostics.Process.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/Microsoft.NETFramework.ReferenceAssemblies.net472.1.0.2/build/.NETFramework/v4.7.2/Facades/System.Diagnostics.StackTrace.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/Microsoft.NETFramework.ReferenceAssemblies.net472.1.0.2/build/.NETFramework/v4.7.2/Facades/System.Diagnostics.TextWriterTraceListener.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/Microsoft.NETFramework.ReferenceAssemblies.net472.1.0.2/build/.NETFramework/v4.7.2/Facades/System.Diagnostics.Tools.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/Microsoft.NETFramework.ReferenceAssemblies.net472.1.0.2/build/.NETFramework/v4.7.2/Facades/System.Diagnostics.TraceSource.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/Microsoft.NETFramework.ReferenceAssemblies.net472.1.0.2/build/.NETFramework/v4.7.2/Facades/System.Drawing.Primitives.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/Microsoft.NETFramework.ReferenceAssemblies.net472.1.0.2/build/.NETFramework/v4.7.2/Facades/System.Dynamic.Runtime.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/Microsoft.NETFramework.ReferenceAssemblies.net472.1.0.2/build/.NETFramework/v4.7.2/Facades/System.Globalization.Calendars.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/Microsoft.NETFramework.ReferenceAssemblies.net472.1.0.2/build/.NETFramework/v4.7.2/Facades/System.Globalization.Extensions.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/Microsoft.NETFramework.ReferenceAssemblies.net472.1.0.2/build/.NETFramework/v4.7.2/Facades/System.Globalization.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/Microsoft.NETFramework.ReferenceAssemblies.net472.1.0.2/build/.NETFramework/v4.7.2/Facades/System.IO.Compression.ZipFile.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/Microsoft.NETFramework.ReferenceAssemblies.net472.1.0.2/build/.NETFramework/v4.7.2/Facades/System.IO.FileSystem.DriveInfo.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/Microsoft.NETFramework.ReferenceAssemblies.net472.1.0.2/build/.NETFramework/v4.7.2/Facades/System.IO.FileSystem.Primitives.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/Microsoft.NETFramework.ReferenceAssemblies.net472.1.0.2/build/.NETFramework/v4.7.2/Facades/System.IO.FileSystem.Watcher.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/Microsoft.NETFramework.ReferenceAssemblies.net472.1.0.2/build/.NETFramework/v4.7.2/Facades/System.IO.FileSystem.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/Microsoft.NETFramework.ReferenceAssemblies.net472.1.0.2/build/.NETFramework/v4.7.2/Facades/System.IO.IsolatedStorage.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/Microsoft.NETFramework.ReferenceAssemblies.net472.1.0.2/build/.NETFramework/v4.7.2/Facades/System.IO.MemoryMappedFiles.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/Microsoft.NETFramework.ReferenceAssemblies.net472.1.0.2/build/.NETFramework/v4.7.2/Facades/System.IO.Pipes.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/Microsoft.NETFramework.ReferenceAssemblies.net472.1.0.2/build/.NETFramework/v4.7.2/Facades/System.IO.UnmanagedMemoryStream.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/Microsoft.NETFramework.ReferenceAssemblies.net472.1.0.2/build/.NETFramework/v4.7.2/Facades/System.IO.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/Microsoft.NETFramework.ReferenceAssemblies.net472.1.0.2/build/.NETFramework/v4.7.2/Facades/System.Linq.Expressions.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/Microsoft.NETFramework.ReferenceAssemblies.net472.1.0.2/build/.NETFramework/v4.7.2/Facades/System.Linq.Parallel.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/Microsoft.NETFramework.ReferenceAssemblies.net472.1.0.2/build/.NETFramework/v4.7.2/Facades/System.Linq.Queryable.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/Microsoft.NETFramework.ReferenceAssemblies.net472.1.0.2/build/.NETFramework/v4.7.2/Facades/System.Linq.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/Microsoft.NETFramework.ReferenceAssemblies.net472.1.0.2/build/.NETFramework/v4.7.2/Facades/System.Net.Http.Rtc.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/Microsoft.NETFramework.ReferenceAssemblies.net472.1.0.2/build/.NETFramework/v4.7.2/Facades/System.Net.NameResolution.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/Microsoft.NETFramework.ReferenceAssemblies.net472.1.0.2/build/.NETFramework/v4.7.2/Facades/System.Net.NetworkInformation.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/Microsoft.NETFramework.ReferenceAssemblies.net472.1.0.2/build/.NETFramework/v4.7.2/Facades/System.Net.Ping.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/Microsoft.NETFramework.ReferenceAssemblies.net472.1.0.2/build/.NETFramework/v4.7.2/Facades/System.Net.Primitives.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/Microsoft.NETFramework.ReferenceAssemblies.net472.1.0.2/build/.NETFramework/v4.7.2/Facades/System.Net.Requests.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/Microsoft.NETFramework.ReferenceAssemblies.net472.1.0.2/build/.NETFramework/v4.7.2/Facades/System.Net.Security.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/Microsoft.NETFramework.ReferenceAssemblies.net472.1.0.2/build/.NETFramework/v4.7.2/Facades/System.Net.Sockets.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/Microsoft.NETFramework.ReferenceAssemblies.net472.1.0.2/build/.NETFramework/v4.7.2/Facades/System.Net.WebHeaderCollection.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/Microsoft.NETFramework.ReferenceAssemblies.net472.1.0.2/build/.NETFramework/v4.7.2/Facades/System.Net.WebSockets.Client.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/Microsoft.NETFramework.ReferenceAssemblies.net472.1.0.2/build/.NETFramework/v4.7.2/Facades/System.Net.WebSockets.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/Microsoft.NETFramework.ReferenceAssemblies.net472.1.0.2/build/.NETFramework/v4.7.2/Facades/System.ObjectModel.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/Microsoft.NETFramework.ReferenceAssemblies.net472.1.0.2/build/.NETFramework/v4.7.2/Facades/System.Reflection.Emit.ILGeneration.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/Microsoft.NETFramework.ReferenceAssemblies.net472.1.0.2/build/.NETFramework/v4.7.2/Facades/System.Reflection.Emit.Lightweight.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/Microsoft.NETFramework.ReferenceAssemblies.net472.1.0.2/build/.NETFramework/v4.7.2/Facades/System.Reflection.Emit.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/Microsoft.NETFramework.ReferenceAssemblies.net472.1.0.2/build/.NETFramework/v4.7.2/Facades/System.Reflection.Extensions.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/Microsoft.NETFramework.ReferenceAssemblies.net472.1.0.2/build/.NETFramework/v4.7.2/Facades/System.Reflection.Primitives.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/Microsoft.NETFramework.ReferenceAssemblies.net472.1.0.2/build/.NETFramework/v4.7.2/Facades/System.Reflection.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/Microsoft.NETFramework.ReferenceAssemblies.net472.1.0.2/build/.NETFramework/v4.7.2/Facades/System.Resources.Reader.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/Microsoft.NETFramework.ReferenceAssemblies.net472.1.0.2/build/.NETFramework/v4.7.2/Facades/System.Resources.ResourceManager.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/Microsoft.NETFramework.ReferenceAssemblies.net472.1.0.2/build/.NETFramework/v4.7.2/Facades/System.Resources.Writer.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/Microsoft.NETFramework.ReferenceAssemblies.net472.1.0.2/build/.NETFramework/v4.7.2/Facades/System.Runtime.CompilerServices.VisualC.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/Microsoft.NETFramework.ReferenceAssemblies.net472.1.0.2/build/.NETFramework/v4.7.2/Facades/System.Runtime.Extensions.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/Microsoft.NETFramework.ReferenceAssemblies.net472.1.0.2/build/.NETFramework/v4.7.2/Facades/System.Runtime.Handles.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/Microsoft.NETFramework.ReferenceAssemblies.net472.1.0.2/build/.NETFramework/v4.7.2/Facades/System.Runtime.InteropServices.RuntimeInformation.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/Microsoft.NETFramework.ReferenceAssemblies.net472.1.0.2/build/.NETFramework/v4.7.2/Facades/System.Runtime.InteropServices.WindowsRuntime.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/Microsoft.NETFramework.ReferenceAssemblies.net472.1.0.2/build/.NETFramework/v4.7.2/Facades/System.Runtime.InteropServices.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/Microsoft.NETFramework.ReferenceAssemblies.net472.1.0.2/build/.NETFramework/v4.7.2/Facades/System.Runtime.Numerics.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/Microsoft.NETFramework.ReferenceAssemblies.net472.1.0.2/build/.NETFramework/v4.7.2/Facades/System.Runtime.Serialization.Formatters.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/Microsoft.NETFramework.ReferenceAssemblies.net472.1.0.2/build/.NETFramework/v4.7.2/Facades/System.Runtime.Serialization.Json.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/Microsoft.NETFramework.ReferenceAssemblies.net472.1.0.2/build/.NETFramework/v4.7.2/Facades/System.Runtime.Serialization.Primitives.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/Microsoft.NETFramework.ReferenceAssemblies.net472.1.0.2/build/.NETFramework/v4.7.2/Facades/System.Runtime.Serialization.Xml.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/Microsoft.NETFramework.ReferenceAssemblies.net472.1.0.2/build/.NETFramework/v4.7.2/Facades/System.Runtime.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/Microsoft.NETFramework.ReferenceAssemblies.net472.1.0.2/build/.NETFramework/v4.7.2/Facades/System.Security.Claims.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/Microsoft.NETFramework.ReferenceAssemblies.net472.1.0.2/build/.NETFramework/v4.7.2/Facades/System.Security.Cryptography.Algorithms.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/Microsoft.NETFramework.ReferenceAssemblies.net472.1.0.2/build/.NETFramework/v4.7.2/Facades/System.Security.Cryptography.Csp.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/Microsoft.NETFramework.ReferenceAssemblies.net472.1.0.2/build/.NETFramework/v4.7.2/Facades/System.Security.Cryptography.Encoding.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/Microsoft.NETFramework.ReferenceAssemblies.net472.1.0.2/build/.NETFramework/v4.7.2/Facades/System.Security.Cryptography.Primitives.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/Microsoft.NETFramework.ReferenceAssemblies.net472.1.0.2/build/.NETFramework/v4.7.2/Facades/System.Security.Cryptography.X509Certificates.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/Microsoft.NETFramework.ReferenceAssemblies.net472.1.0.2/build/.NETFramework/v4.7.2/Facades/System.Security.Principal.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/Microsoft.NETFramework.ReferenceAssemblies.net472.1.0.2/build/.NETFramework/v4.7.2/Facades/System.Security.SecureString.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/Microsoft.NETFramework.ReferenceAssemblies.net472.1.0.2/build/.NETFramework/v4.7.2/Facades/System.ServiceModel.Duplex.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/Microsoft.NETFramework.ReferenceAssemblies.net472.1.0.2/build/.NETFramework/v4.7.2/Facades/System.ServiceModel.Http.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/Microsoft.NETFramework.ReferenceAssemblies.net472.1.0.2/build/.NETFramework/v4.7.2/Facades/System.ServiceModel.NetTcp.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/Microsoft.NETFramework.ReferenceAssemblies.net472.1.0.2/build/.NETFramework/v4.7.2/Facades/System.ServiceModel.Primitives.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/Microsoft.NETFramework.ReferenceAssemblies.net472.1.0.2/build/.NETFramework/v4.7.2/Facades/System.ServiceModel.Security.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/Microsoft.NETFramework.ReferenceAssemblies.net472.1.0.2/build/.NETFramework/v4.7.2/Facades/System.Text.Encoding.Extensions.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/Microsoft.NETFramework.ReferenceAssemblies.net472.1.0.2/build/.NETFramework/v4.7.2/Facades/System.Text.Encoding.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/Microsoft.NETFramework.ReferenceAssemblies.net472.1.0.2/build/.NETFramework/v4.7.2/Facades/System.Text.RegularExpressions.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/Microsoft.NETFramework.ReferenceAssemblies.net472.1.0.2/build/.NETFramework/v4.7.2/Facades/System.Threading.Overlapped.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/Microsoft.NETFramework.ReferenceAssemblies.net472.1.0.2/build/.NETFramework/v4.7.2/Facades/System.Threading.Tasks.Parallel.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/Microsoft.NETFramework.ReferenceAssemblies.net472.1.0.2/build/.NETFramework/v4.7.2/Facades/System.Threading.Tasks.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/Microsoft.NETFramework.ReferenceAssemblies.net472.1.0.2/build/.NETFramework/v4.7.2/Facades/System.Threading.Thread.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/Microsoft.NETFramework.ReferenceAssemblies.net472.1.0.2/build/.NETFramework/v4.7.2/Facades/System.Threading.ThreadPool.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/Microsoft.NETFramework.ReferenceAssemblies.net472.1.0.2/build/.NETFramework/v4.7.2/Facades/System.Threading.Timer.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/Microsoft.NETFramework.ReferenceAssemblies.net472.1.0.2/build/.NETFramework/v4.7.2/Facades/System.Threading.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/Microsoft.NETFramework.ReferenceAssemblies.net472.1.0.2/build/.NETFramework/v4.7.2/Facades/System.ValueTuple.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/Microsoft.NETFramework.ReferenceAssemblies.net472.1.0.2/build/.NETFramework/v4.7.2/Facades/System.Xml.ReaderWriter.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/Microsoft.NETFramework.ReferenceAssemblies.net472.1.0.2/build/.NETFramework/v4.7.2/Facades/System.Xml.XDocument.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/Microsoft.NETFramework.ReferenceAssemblies.net472.1.0.2/build/.NETFramework/v4.7.2/Facades/System.Xml.XPath.XDocument.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/Microsoft.NETFramework.ReferenceAssemblies.net472.1.0.2/build/.NETFramework/v4.7.2/Facades/System.Xml.XPath.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/Microsoft.NETFramework.ReferenceAssemblies.net472.1.0.2/build/.NETFramework/v4.7.2/Facades/System.Xml.XmlDocument.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/Microsoft.NETFramework.ReferenceAssemblies.net472.1.0.2/build/.NETFramework/v4.7.2/Facades/System.Xml.XmlSerializer.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/Microsoft.NETFramework.ReferenceAssemblies.net472.1.0.2/build/.NETFramework/v4.7.2/Facades/netstandard.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/Microsoft.NETFramework.ReferenceAssemblies.net472.1.0.2/build/.NETFramework/v4.7.2/ISymWrapper.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/Microsoft.NETFramework.ReferenceAssemblies.net472.1.0.2/build/.NETFramework/v4.7.2/ISymWrapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/Microsoft.NETFramework.ReferenceAssemblies.net472.1.0.2/build/.NETFramework/v4.7.2/Microsoft.Activities.Build.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/Microsoft.NETFramework.ReferenceAssemblies.net472.1.0.2/build/.NETFramework/v4.7.2/Microsoft.Activities.Build.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/Microsoft.NETFramework.ReferenceAssemblies.net472.1.0.2/build/.NETFramework/v4.7.2/Microsoft.Build.Conversion.v4.0.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/Microsoft.NETFramework.ReferenceAssemblies.net472.1.0.2/build/.NETFramework/v4.7.2/Microsoft.Build.Conversion.v4.0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/Microsoft.NETFramework.ReferenceAssemblies.net472.1.0.2/build/.NETFramework/v4.7.2/Microsoft.Build.Engine.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/Microsoft.NETFramework.ReferenceAssemblies.net472.1.0.2/build/.NETFramework/v4.7.2/Microsoft.Build.Engine.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/Microsoft.NETFramework.ReferenceAssemblies.net472.1.0.2/build/.NETFramework/v4.7.2/Microsoft.Build.Framework.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/Microsoft.NETFramework.ReferenceAssemblies.net472.1.0.2/build/.NETFramework/v4.7.2/Microsoft.Build.Framework.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/Microsoft.NETFramework.ReferenceAssemblies.net472.1.0.2/build/.NETFramework/v4.7.2/Microsoft.Build.Tasks.v4.0.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/Microsoft.NETFramework.ReferenceAssemblies.net472.1.0.2/build/.NETFramework/v4.7.2/Microsoft.Build.Tasks.v4.0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/Microsoft.NETFramework.ReferenceAssemblies.net472.1.0.2/build/.NETFramework/v4.7.2/Microsoft.Build.Utilities.v4.0.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/Microsoft.NETFramework.ReferenceAssemblies.net472.1.0.2/build/.NETFramework/v4.7.2/Microsoft.Build.Utilities.v4.0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/Microsoft.NETFramework.ReferenceAssemblies.net472.1.0.2/build/.NETFramework/v4.7.2/Microsoft.Build.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/Microsoft.NETFramework.ReferenceAssemblies.net472.1.0.2/build/.NETFramework/v4.7.2/Microsoft.Build.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/Microsoft.NETFramework.ReferenceAssemblies.net472.1.0.2/build/.NETFramework/v4.7.2/Microsoft.CSharp.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/Microsoft.NETFramework.ReferenceAssemblies.net472.1.0.2/build/.NETFramework/v4.7.2/Microsoft.CSharp.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/Microsoft.NETFramework.ReferenceAssemblies.net472.1.0.2/build/.NETFramework/v4.7.2/Microsoft.JScript.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/Microsoft.NETFramework.ReferenceAssemblies.net472.1.0.2/build/.NETFramework/v4.7.2/Microsoft.JScript.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/Microsoft.NETFramework.ReferenceAssemblies.net472.1.0.2/build/.NETFramework/v4.7.2/Microsoft.VisualBasic.Compatibility.Data.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/Microsoft.NETFramework.ReferenceAssemblies.net472.1.0.2/build/.NETFramework/v4.7.2/Microsoft.VisualBasic.Compatibility.Data.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/Microsoft.NETFramework.ReferenceAssemblies.net472.1.0.2/build/.NETFramework/v4.7.2/Microsoft.VisualBasic.Compatibility.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/Microsoft.NETFramework.ReferenceAssemblies.net472.1.0.2/build/.NETFramework/v4.7.2/Microsoft.VisualBasic.Compatibility.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/Microsoft.NETFramework.ReferenceAssemblies.net472.1.0.2/build/.NETFramework/v4.7.2/Microsoft.VisualBasic.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/Microsoft.NETFramework.ReferenceAssemblies.net472.1.0.2/build/.NETFramework/v4.7.2/Microsoft.VisualBasic.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/Microsoft.NETFramework.ReferenceAssemblies.net472.1.0.2/build/.NETFramework/v4.7.2/Microsoft.VisualC.STLCLR.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/Microsoft.NETFramework.ReferenceAssemblies.net472.1.0.2/build/.NETFramework/v4.7.2/Microsoft.VisualC.STLCLR.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/Microsoft.NETFramework.ReferenceAssemblies.net472.1.0.2/build/.NETFramework/v4.7.2/Microsoft.VisualC.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/Microsoft.NETFramework.ReferenceAssemblies.net472.1.0.2/build/.NETFramework/v4.7.2/Microsoft.VisualC.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/Microsoft.NETFramework.ReferenceAssemblies.net472.1.0.2/build/.NETFramework/v4.7.2/PermissionSets/FullTrust.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/Microsoft.NETFramework.ReferenceAssemblies.net472.1.0.2/build/.NETFramework/v4.7.2/PermissionSets/Internet.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/Microsoft.NETFramework.ReferenceAssemblies.net472.1.0.2/build/.NETFramework/v4.7.2/PermissionSets/LocalIntranet.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/Microsoft.NETFramework.ReferenceAssemblies.net472.1.0.2/build/.NETFramework/v4.7.2/PresentationBuildTasks.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/Microsoft.NETFramework.ReferenceAssemblies.net472.1.0.2/build/.NETFramework/v4.7.2/PresentationBuildTasks.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/Microsoft.NETFramework.ReferenceAssemblies.net472.1.0.2/build/.NETFramework/v4.7.2/PresentationCore.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/Microsoft.NETFramework.ReferenceAssemblies.net472.1.0.2/build/.NETFramework/v4.7.2/PresentationCore.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/Microsoft.NETFramework.ReferenceAssemblies.net472.1.0.2/build/.NETFramework/v4.7.2/PresentationFramework.Aero.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/Microsoft.NETFramework.ReferenceAssemblies.net472.1.0.2/build/.NETFramework/v4.7.2/PresentationFramework.Aero.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/Microsoft.NETFramework.ReferenceAssemblies.net472.1.0.2/build/.NETFramework/v4.7.2/PresentationFramework.Aero2.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/Microsoft.NETFramework.ReferenceAssemblies.net472.1.0.2/build/.NETFramework/v4.7.2/PresentationFramework.Aero2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/Microsoft.NETFramework.ReferenceAssemblies.net472.1.0.2/build/.NETFramework/v4.7.2/PresentationFramework.AeroLite.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/Microsoft.NETFramework.ReferenceAssemblies.net472.1.0.2/build/.NETFramework/v4.7.2/PresentationFramework.AeroLite.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/Microsoft.NETFramework.ReferenceAssemblies.net472.1.0.2/build/.NETFramework/v4.7.2/PresentationFramework.Classic.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/Microsoft.NETFramework.ReferenceAssemblies.net472.1.0.2/build/.NETFramework/v4.7.2/PresentationFramework.Classic.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/Microsoft.NETFramework.ReferenceAssemblies.net472.1.0.2/build/.NETFramework/v4.7.2/PresentationFramework.Luna.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/Microsoft.NETFramework.ReferenceAssemblies.net472.1.0.2/build/.NETFramework/v4.7.2/PresentationFramework.Luna.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/Microsoft.NETFramework.ReferenceAssemblies.net472.1.0.2/build/.NETFramework/v4.7.2/PresentationFramework.Royale.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/Microsoft.NETFramework.ReferenceAssemblies.net472.1.0.2/build/.NETFramework/v4.7.2/PresentationFramework.Royale.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/Microsoft.NETFramework.ReferenceAssemblies.net472.1.0.2/build/.NETFramework/v4.7.2/PresentationFramework.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/Microsoft.NETFramework.ReferenceAssemblies.net472.1.0.2/build/.NETFramework/v4.7.2/PresentationFramework.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/Microsoft.NETFramework.ReferenceAssemblies.net472.1.0.2/build/.NETFramework/v4.7.2/ReachFramework.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/Microsoft.NETFramework.ReferenceAssemblies.net472.1.0.2/build/.NETFramework/v4.7.2/ReachFramework.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/Microsoft.NETFramework.ReferenceAssemblies.net472.1.0.2/build/.NETFramework/v4.7.2/RedistList/FrameworkList.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/Microsoft.NETFramework.ReferenceAssemblies.net472.1.0.2/build/.NETFramework/v4.7.2/System.Activities.Core.Presentation.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/Microsoft.NETFramework.ReferenceAssemblies.net472.1.0.2/build/.NETFramework/v4.7.2/System.Activities.Core.Presentation.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/Microsoft.NETFramework.ReferenceAssemblies.net472.1.0.2/build/.NETFramework/v4.7.2/System.Activities.DurableInstancing.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/Microsoft.NETFramework.ReferenceAssemblies.net472.1.0.2/build/.NETFramework/v4.7.2/System.Activities.DurableInstancing.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/Microsoft.NETFramework.ReferenceAssemblies.net472.1.0.2/build/.NETFramework/v4.7.2/System.Activities.Presentation.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/Microsoft.NETFramework.ReferenceAssemblies.net472.1.0.2/build/.NETFramework/v4.7.2/System.Activities.Presentation.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/Microsoft.NETFramework.ReferenceAssemblies.net472.1.0.2/build/.NETFramework/v4.7.2/System.Activities.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/Microsoft.NETFramework.ReferenceAssemblies.net472.1.0.2/build/.NETFramework/v4.7.2/System.Activities.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/Microsoft.NETFramework.ReferenceAssemblies.net472.1.0.2/build/.NETFramework/v4.7.2/System.AddIn.Contract.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/Microsoft.NETFramework.ReferenceAssemblies.net472.1.0.2/build/.NETFramework/v4.7.2/System.AddIn.Contract.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/Microsoft.NETFramework.ReferenceAssemblies.net472.1.0.2/build/.NETFramework/v4.7.2/System.AddIn.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/Microsoft.NETFramework.ReferenceAssemblies.net472.1.0.2/build/.NETFramework/v4.7.2/System.AddIn.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/Microsoft.NETFramework.ReferenceAssemblies.net472.1.0.2/build/.NETFramework/v4.7.2/System.ComponentModel.Composition.Registration.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/Microsoft.NETFramework.ReferenceAssemblies.net472.1.0.2/build/.NETFramework/v4.7.2/System.ComponentModel.Composition.Registration.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/Microsoft.NETFramework.ReferenceAssemblies.net472.1.0.2/build/.NETFramework/v4.7.2/System.ComponentModel.Composition.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/Microsoft.NETFramework.ReferenceAssemblies.net472.1.0.2/build/.NETFramework/v4.7.2/System.ComponentModel.Composition.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/Microsoft.NETFramework.ReferenceAssemblies.net472.1.0.2/build/.NETFramework/v4.7.2/System.ComponentModel.DataAnnotations.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/Microsoft.NETFramework.ReferenceAssemblies.net472.1.0.2/build/.NETFramework/v4.7.2/System.ComponentModel.DataAnnotations.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/Microsoft.NETFramework.ReferenceAssemblies.net472.1.0.2/build/.NETFramework/v4.7.2/System.Configuration.Install.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/Microsoft.NETFramework.ReferenceAssemblies.net472.1.0.2/build/.NETFramework/v4.7.2/System.Configuration.Install.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/Microsoft.NETFramework.ReferenceAssemblies.net472.1.0.2/build/.NETFramework/v4.7.2/System.Configuration.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/Microsoft.NETFramework.ReferenceAssemblies.net472.1.0.2/build/.NETFramework/v4.7.2/System.Configuration.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/Microsoft.NETFramework.ReferenceAssemblies.net472.1.0.2/build/.NETFramework/v4.7.2/System.Core.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/Microsoft.NETFramework.ReferenceAssemblies.net472.1.0.2/build/.NETFramework/v4.7.2/System.Core.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/Microsoft.NETFramework.ReferenceAssemblies.net472.1.0.2/build/.NETFramework/v4.7.2/System.Data.DataSetExtensions.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/Microsoft.NETFramework.ReferenceAssemblies.net472.1.0.2/build/.NETFramework/v4.7.2/System.Data.DataSetExtensions.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/Microsoft.NETFramework.ReferenceAssemblies.net472.1.0.2/build/.NETFramework/v4.7.2/System.Data.Entity.Design.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/Microsoft.NETFramework.ReferenceAssemblies.net472.1.0.2/build/.NETFramework/v4.7.2/System.Data.Entity.Design.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/Microsoft.NETFramework.ReferenceAssemblies.net472.1.0.2/build/.NETFramework/v4.7.2/System.Data.Entity.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/Microsoft.NETFramework.ReferenceAssemblies.net472.1.0.2/build/.NETFramework/v4.7.2/System.Data.Entity.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/Microsoft.NETFramework.ReferenceAssemblies.net472.1.0.2/build/.NETFramework/v4.7.2/System.Data.Linq.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/Microsoft.NETFramework.ReferenceAssemblies.net472.1.0.2/build/.NETFramework/v4.7.2/System.Data.Linq.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/Microsoft.NETFramework.ReferenceAssemblies.net472.1.0.2/build/.NETFramework/v4.7.2/System.Data.OracleClient.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/Microsoft.NETFramework.ReferenceAssemblies.net472.1.0.2/build/.NETFramework/v4.7.2/System.Data.OracleClient.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/Microsoft.NETFramework.ReferenceAssemblies.net472.1.0.2/build/.NETFramework/v4.7.2/System.Data.Services.Client.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/Microsoft.NETFramework.ReferenceAssemblies.net472.1.0.2/build/.NETFramework/v4.7.2/System.Data.Services.Client.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/Microsoft.NETFramework.ReferenceAssemblies.net472.1.0.2/build/.NETFramework/v4.7.2/System.Data.Services.Design.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/Microsoft.NETFramework.ReferenceAssemblies.net472.1.0.2/build/.NETFramework/v4.7.2/System.Data.Services.Design.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/Microsoft.NETFramework.ReferenceAssemblies.net472.1.0.2/build/.NETFramework/v4.7.2/System.Data.Services.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/Microsoft.NETFramework.ReferenceAssemblies.net472.1.0.2/build/.NETFramework/v4.7.2/System.Data.Services.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/Microsoft.NETFramework.ReferenceAssemblies.net472.1.0.2/build/.NETFramework/v4.7.2/System.Data.SqlXml.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/Microsoft.NETFramework.ReferenceAssemblies.net472.1.0.2/build/.NETFramework/v4.7.2/System.Data.SqlXml.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/Microsoft.NETFramework.ReferenceAssemblies.net472.1.0.2/build/.NETFramework/v4.7.2/System.Data.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/Microsoft.NETFramework.ReferenceAssemblies.net472.1.0.2/build/.NETFramework/v4.7.2/System.Data.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/Microsoft.NETFramework.ReferenceAssemblies.net472.1.0.2/build/.NETFramework/v4.7.2/System.Deployment.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/Microsoft.NETFramework.ReferenceAssemblies.net472.1.0.2/build/.NETFramework/v4.7.2/System.Deployment.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/Microsoft.NETFramework.ReferenceAssemblies.net472.1.0.2/build/.NETFramework/v4.7.2/System.Design.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/Microsoft.NETFramework.ReferenceAssemblies.net472.1.0.2/build/.NETFramework/v4.7.2/System.Design.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/Microsoft.NETFramework.ReferenceAssemblies.net472.1.0.2/build/.NETFramework/v4.7.2/System.Device.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/Microsoft.NETFramework.ReferenceAssemblies.net472.1.0.2/build/.NETFramework/v4.7.2/System.Device.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/Microsoft.NETFramework.ReferenceAssemblies.net472.1.0.2/build/.NETFramework/v4.7.2/System.Diagnostics.Tracing.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/Microsoft.NETFramework.ReferenceAssemblies.net472.1.0.2/build/.NETFramework/v4.7.2/System.Diagnostics.Tracing.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/Microsoft.NETFramework.ReferenceAssemblies.net472.1.0.2/build/.NETFramework/v4.7.2/System.DirectoryServices.AccountManagement.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/Microsoft.NETFramework.ReferenceAssemblies.net472.1.0.2/build/.NETFramework/v4.7.2/System.DirectoryServices.AccountManagement.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/Microsoft.NETFramework.ReferenceAssemblies.net472.1.0.2/build/.NETFramework/v4.7.2/System.DirectoryServices.Protocols.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/Microsoft.NETFramework.ReferenceAssemblies.net472.1.0.2/build/.NETFramework/v4.7.2/System.DirectoryServices.Protocols.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/Microsoft.NETFramework.ReferenceAssemblies.net472.1.0.2/build/.NETFramework/v4.7.2/System.DirectoryServices.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/Microsoft.NETFramework.ReferenceAssemblies.net472.1.0.2/build/.NETFramework/v4.7.2/System.DirectoryServices.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/Microsoft.NETFramework.ReferenceAssemblies.net472.1.0.2/build/.NETFramework/v4.7.2/System.Drawing.Design.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/Microsoft.NETFramework.ReferenceAssemblies.net472.1.0.2/build/.NETFramework/v4.7.2/System.Drawing.Design.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/Microsoft.NETFramework.ReferenceAssemblies.net472.1.0.2/build/.NETFramework/v4.7.2/System.Drawing.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/Microsoft.NETFramework.ReferenceAssemblies.net472.1.0.2/build/.NETFramework/v4.7.2/System.Drawing.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/Microsoft.NETFramework.ReferenceAssemblies.net472.1.0.2/build/.NETFramework/v4.7.2/System.Dynamic.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/Microsoft.NETFramework.ReferenceAssemblies.net472.1.0.2/build/.NETFramework/v4.7.2/System.EnterpriseServices.Thunk.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/Microsoft.NETFramework.ReferenceAssemblies.net472.1.0.2/build/.NETFramework/v4.7.2/System.EnterpriseServices.Wrapper.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/Microsoft.NETFramework.ReferenceAssemblies.net472.1.0.2/build/.NETFramework/v4.7.2/System.EnterpriseServices.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/Microsoft.NETFramework.ReferenceAssemblies.net472.1.0.2/build/.NETFramework/v4.7.2/System.EnterpriseServices.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/Microsoft.NETFramework.ReferenceAssemblies.net472.1.0.2/build/.NETFramework/v4.7.2/System.IO.Compression.FileSystem.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/Microsoft.NETFramework.ReferenceAssemblies.net472.1.0.2/build/.NETFramework/v4.7.2/System.IO.Compression.FileSystem.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/Microsoft.NETFramework.ReferenceAssemblies.net472.1.0.2/build/.NETFramework/v4.7.2/System.IO.Compression.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/Microsoft.NETFramework.ReferenceAssemblies.net472.1.0.2/build/.NETFramework/v4.7.2/System.IO.Compression.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/Microsoft.NETFramework.ReferenceAssemblies.net472.1.0.2/build/.NETFramework/v4.7.2/System.IO.Log.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/Microsoft.NETFramework.ReferenceAssemblies.net472.1.0.2/build/.NETFramework/v4.7.2/System.IO.Log.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/Microsoft.NETFramework.ReferenceAssemblies.net472.1.0.2/build/.NETFramework/v4.7.2/System.IdentityModel.Selectors.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/Microsoft.NETFramework.ReferenceAssemblies.net472.1.0.2/build/.NETFramework/v4.7.2/System.IdentityModel.Selectors.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/Microsoft.NETFramework.ReferenceAssemblies.net472.1.0.2/build/.NETFramework/v4.7.2/System.IdentityModel.Services.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/Microsoft.NETFramework.ReferenceAssemblies.net472.1.0.2/build/.NETFramework/v4.7.2/System.IdentityModel.Services.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/Microsoft.NETFramework.ReferenceAssemblies.net472.1.0.2/build/.NETFramework/v4.7.2/System.IdentityModel.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/Microsoft.NETFramework.ReferenceAssemblies.net472.1.0.2/build/.NETFramework/v4.7.2/System.IdentityModel.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/Microsoft.NETFramework.ReferenceAssemblies.net472.1.0.2/build/.NETFramework/v4.7.2/System.Linq.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/Microsoft.NETFramework.ReferenceAssemblies.net472.1.0.2/build/.NETFramework/v4.7.2/System.Management.Instrumentation.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/Microsoft.NETFramework.ReferenceAssemblies.net472.1.0.2/build/.NETFramework/v4.7.2/System.Management.Instrumentation.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/Microsoft.NETFramework.ReferenceAssemblies.net472.1.0.2/build/.NETFramework/v4.7.2/System.Management.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/Microsoft.NETFramework.ReferenceAssemblies.net472.1.0.2/build/.NETFramework/v4.7.2/System.Management.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/Microsoft.NETFramework.ReferenceAssemblies.net472.1.0.2/build/.NETFramework/v4.7.2/System.Messaging.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/Microsoft.NETFramework.ReferenceAssemblies.net472.1.0.2/build/.NETFramework/v4.7.2/System.Messaging.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/Microsoft.NETFramework.ReferenceAssemblies.net472.1.0.2/build/.NETFramework/v4.7.2/System.Net.Http.WebRequest.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/Microsoft.NETFramework.ReferenceAssemblies.net472.1.0.2/build/.NETFramework/v4.7.2/System.Net.Http.WebRequest.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/Microsoft.NETFramework.ReferenceAssemblies.net472.1.0.2/build/.NETFramework/v4.7.2/System.Net.Http.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/Microsoft.NETFramework.ReferenceAssemblies.net472.1.0.2/build/.NETFramework/v4.7.2/System.Net.Http.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/Microsoft.NETFramework.ReferenceAssemblies.net472.1.0.2/build/.NETFramework/v4.7.2/System.Net.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/Microsoft.NETFramework.ReferenceAssemblies.net472.1.0.2/build/.NETFramework/v4.7.2/System.Net.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/Microsoft.NETFramework.ReferenceAssemblies.net472.1.0.2/build/.NETFramework/v4.7.2/System.Numerics.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/Microsoft.NETFramework.ReferenceAssemblies.net472.1.0.2/build/.NETFramework/v4.7.2/System.Numerics.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/Microsoft.NETFramework.ReferenceAssemblies.net472.1.0.2/build/.NETFramework/v4.7.2/System.Printing.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/Microsoft.NETFramework.ReferenceAssemblies.net472.1.0.2/build/.NETFramework/v4.7.2/System.Printing.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/Microsoft.NETFramework.ReferenceAssemblies.net472.1.0.2/build/.NETFramework/v4.7.2/System.Reflection.Context.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/Microsoft.NETFramework.ReferenceAssemblies.net472.1.0.2/build/.NETFramework/v4.7.2/System.Reflection.Context.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/Microsoft.NETFramework.ReferenceAssemblies.net472.1.0.2/build/.NETFramework/v4.7.2/System.Runtime.Caching.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/Microsoft.NETFramework.ReferenceAssemblies.net472.1.0.2/build/.NETFramework/v4.7.2/System.Runtime.Caching.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/Microsoft.NETFramework.ReferenceAssemblies.net472.1.0.2/build/.NETFramework/v4.7.2/System.Runtime.DurableInstancing.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/Microsoft.NETFramework.ReferenceAssemblies.net472.1.0.2/build/.NETFramework/v4.7.2/System.Runtime.DurableInstancing.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/Microsoft.NETFramework.ReferenceAssemblies.net472.1.0.2/build/.NETFramework/v4.7.2/System.Runtime.Remoting.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/Microsoft.NETFramework.ReferenceAssemblies.net472.1.0.2/build/.NETFramework/v4.7.2/System.Runtime.Remoting.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/Microsoft.NETFramework.ReferenceAssemblies.net472.1.0.2/build/.NETFramework/v4.7.2/System.Runtime.Serialization.Formatters.Soap.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/Microsoft.NETFramework.ReferenceAssemblies.net472.1.0.2/build/.NETFramework/v4.7.2/System.Runtime.Serialization.Formatters.Soap.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/Microsoft.NETFramework.ReferenceAssemblies.net472.1.0.2/build/.NETFramework/v4.7.2/System.Runtime.Serialization.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/Microsoft.NETFramework.ReferenceAssemblies.net472.1.0.2/build/.NETFramework/v4.7.2/System.Runtime.Serialization.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/Microsoft.NETFramework.ReferenceAssemblies.net472.1.0.2/build/.NETFramework/v4.7.2/System.Security.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/Microsoft.NETFramework.ReferenceAssemblies.net472.1.0.2/build/.NETFramework/v4.7.2/System.Security.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/Microsoft.NETFramework.ReferenceAssemblies.net472.1.0.2/build/.NETFramework/v4.7.2/System.ServiceModel.Activation.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/Microsoft.NETFramework.ReferenceAssemblies.net472.1.0.2/build/.NETFramework/v4.7.2/System.ServiceModel.Activation.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/Microsoft.NETFramework.ReferenceAssemblies.net472.1.0.2/build/.NETFramework/v4.7.2/System.ServiceModel.Activities.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/Microsoft.NETFramework.ReferenceAssemblies.net472.1.0.2/build/.NETFramework/v4.7.2/System.ServiceModel.Activities.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/Microsoft.NETFramework.ReferenceAssemblies.net472.1.0.2/build/.NETFramework/v4.7.2/System.ServiceModel.Channels.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/Microsoft.NETFramework.ReferenceAssemblies.net472.1.0.2/build/.NETFramework/v4.7.2/System.ServiceModel.Channels.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/Microsoft.NETFramework.ReferenceAssemblies.net472.1.0.2/build/.NETFramework/v4.7.2/System.ServiceModel.Discovery.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/Microsoft.NETFramework.ReferenceAssemblies.net472.1.0.2/build/.NETFramework/v4.7.2/System.ServiceModel.Discovery.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/Microsoft.NETFramework.ReferenceAssemblies.net472.1.0.2/build/.NETFramework/v4.7.2/System.ServiceModel.Routing.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/Microsoft.NETFramework.ReferenceAssemblies.net472.1.0.2/build/.NETFramework/v4.7.2/System.ServiceModel.Routing.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/Microsoft.NETFramework.ReferenceAssemblies.net472.1.0.2/build/.NETFramework/v4.7.2/System.ServiceModel.Web.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/Microsoft.NETFramework.ReferenceAssemblies.net472.1.0.2/build/.NETFramework/v4.7.2/System.ServiceModel.Web.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/Microsoft.NETFramework.ReferenceAssemblies.net472.1.0.2/build/.NETFramework/v4.7.2/System.ServiceModel.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/Microsoft.NETFramework.ReferenceAssemblies.net472.1.0.2/build/.NETFramework/v4.7.2/System.ServiceModel.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/Microsoft.NETFramework.ReferenceAssemblies.net472.1.0.2/build/.NETFramework/v4.7.2/System.ServiceProcess.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/Microsoft.NETFramework.ReferenceAssemblies.net472.1.0.2/build/.NETFramework/v4.7.2/System.ServiceProcess.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/Microsoft.NETFramework.ReferenceAssemblies.net472.1.0.2/build/.NETFramework/v4.7.2/System.Speech.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/Microsoft.NETFramework.ReferenceAssemblies.net472.1.0.2/build/.NETFramework/v4.7.2/System.Speech.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/Microsoft.NETFramework.ReferenceAssemblies.net472.1.0.2/build/.NETFramework/v4.7.2/System.Threading.Tasks.Dataflow.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/Microsoft.NETFramework.ReferenceAssemblies.net472.1.0.2/build/.NETFramework/v4.7.2/System.Transactions.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/Microsoft.NETFramework.ReferenceAssemblies.net472.1.0.2/build/.NETFramework/v4.7.2/System.Transactions.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/Microsoft.NETFramework.ReferenceAssemblies.net472.1.0.2/build/.NETFramework/v4.7.2/System.Web.Abstractions.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/Microsoft.NETFramework.ReferenceAssemblies.net472.1.0.2/build/.NETFramework/v4.7.2/System.Web.ApplicationServices.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/Microsoft.NETFramework.ReferenceAssemblies.net472.1.0.2/build/.NETFramework/v4.7.2/System.Web.ApplicationServices.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/Microsoft.NETFramework.ReferenceAssemblies.net472.1.0.2/build/.NETFramework/v4.7.2/System.Web.DataVisualization.Design.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/Microsoft.NETFramework.ReferenceAssemblies.net472.1.0.2/build/.NETFramework/v4.7.2/System.Web.DataVisualization.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/Microsoft.NETFramework.ReferenceAssemblies.net472.1.0.2/build/.NETFramework/v4.7.2/System.Web.DataVisualization.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/Microsoft.NETFramework.ReferenceAssemblies.net472.1.0.2/build/.NETFramework/v4.7.2/System.Web.DynamicData.Design.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/Microsoft.NETFramework.ReferenceAssemblies.net472.1.0.2/build/.NETFramework/v4.7.2/System.Web.DynamicData.Design.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/Microsoft.NETFramework.ReferenceAssemblies.net472.1.0.2/build/.NETFramework/v4.7.2/System.Web.DynamicData.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/Microsoft.NETFramework.ReferenceAssemblies.net472.1.0.2/build/.NETFramework/v4.7.2/System.Web.DynamicData.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/Microsoft.NETFramework.ReferenceAssemblies.net472.1.0.2/build/.NETFramework/v4.7.2/System.Web.Entity.Design.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/Microsoft.NETFramework.ReferenceAssemblies.net472.1.0.2/build/.NETFramework/v4.7.2/System.Web.Entity.Design.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/Microsoft.NETFramework.ReferenceAssemblies.net472.1.0.2/build/.NETFramework/v4.7.2/System.Web.Entity.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/Microsoft.NETFramework.ReferenceAssemblies.net472.1.0.2/build/.NETFramework/v4.7.2/System.Web.Entity.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/Microsoft.NETFramework.ReferenceAssemblies.net472.1.0.2/build/.NETFramework/v4.7.2/System.Web.Extensions.Design.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/Microsoft.NETFramework.ReferenceAssemblies.net472.1.0.2/build/.NETFramework/v4.7.2/System.Web.Extensions.Design.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/Microsoft.NETFramework.ReferenceAssemblies.net472.1.0.2/build/.NETFramework/v4.7.2/System.Web.Extensions.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/Microsoft.NETFramework.ReferenceAssemblies.net472.1.0.2/build/.NETFramework/v4.7.2/System.Web.Extensions.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/Microsoft.NETFramework.ReferenceAssemblies.net472.1.0.2/build/.NETFramework/v4.7.2/System.Web.Mobile.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/Microsoft.NETFramework.ReferenceAssemblies.net472.1.0.2/build/.NETFramework/v4.7.2/System.Web.Mobile.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/Microsoft.NETFramework.ReferenceAssemblies.net472.1.0.2/build/.NETFramework/v4.7.2/System.Web.RegularExpressions.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/Microsoft.NETFramework.ReferenceAssemblies.net472.1.0.2/build/.NETFramework/v4.7.2/System.Web.RegularExpressions.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/Microsoft.NETFramework.ReferenceAssemblies.net472.1.0.2/build/.NETFramework/v4.7.2/System.Web.Routing.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/Microsoft.NETFramework.ReferenceAssemblies.net472.1.0.2/build/.NETFramework/v4.7.2/System.Web.Services.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/Microsoft.NETFramework.ReferenceAssemblies.net472.1.0.2/build/.NETFramework/v4.7.2/System.Web.Services.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/Microsoft.NETFramework.ReferenceAssemblies.net472.1.0.2/build/.NETFramework/v4.7.2/System.Web.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/Microsoft.NETFramework.ReferenceAssemblies.net472.1.0.2/build/.NETFramework/v4.7.2/System.Web.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/Microsoft.NETFramework.ReferenceAssemblies.net472.1.0.2/build/.NETFramework/v4.7.2/System.Windows.Controls.Ribbon.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/Microsoft.NETFramework.ReferenceAssemblies.net472.1.0.2/build/.NETFramework/v4.7.2/System.Windows.Controls.Ribbon.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/Microsoft.NETFramework.ReferenceAssemblies.net472.1.0.2/build/.NETFramework/v4.7.2/System.Windows.Forms.DataVisualization.Design.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/Microsoft.NETFramework.ReferenceAssemblies.net472.1.0.2/build/.NETFramework/v4.7.2/System.Windows.Forms.DataVisualization.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/Microsoft.NETFramework.ReferenceAssemblies.net472.1.0.2/build/.NETFramework/v4.7.2/System.Windows.Forms.DataVisualization.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/Microsoft.NETFramework.ReferenceAssemblies.net472.1.0.2/build/.NETFramework/v4.7.2/System.Windows.Forms.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/Microsoft.NETFramework.ReferenceAssemblies.net472.1.0.2/build/.NETFramework/v4.7.2/System.Windows.Forms.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/Microsoft.NETFramework.ReferenceAssemblies.net472.1.0.2/build/.NETFramework/v4.7.2/System.Windows.Input.Manipulations.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/Microsoft.NETFramework.ReferenceAssemblies.net472.1.0.2/build/.NETFramework/v4.7.2/System.Windows.Input.Manipulations.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/Microsoft.NETFramework.ReferenceAssemblies.net472.1.0.2/build/.NETFramework/v4.7.2/System.Windows.Presentation.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/Microsoft.NETFramework.ReferenceAssemblies.net472.1.0.2/build/.NETFramework/v4.7.2/System.Windows.Presentation.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/Microsoft.NETFramework.ReferenceAssemblies.net472.1.0.2/build/.NETFramework/v4.7.2/System.Windows.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/Microsoft.NETFramework.ReferenceAssemblies.net472.1.0.2/build/.NETFramework/v4.7.2/System.Workflow.Activities.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/Microsoft.NETFramework.ReferenceAssemblies.net472.1.0.2/build/.NETFramework/v4.7.2/System.Workflow.Activities.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/Microsoft.NETFramework.ReferenceAssemblies.net472.1.0.2/build/.NETFramework/v4.7.2/System.Workflow.ComponentModel.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/Microsoft.NETFramework.ReferenceAssemblies.net472.1.0.2/build/.NETFramework/v4.7.2/System.Workflow.ComponentModel.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/Microsoft.NETFramework.ReferenceAssemblies.net472.1.0.2/build/.NETFramework/v4.7.2/System.Workflow.Runtime.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/Microsoft.NETFramework.ReferenceAssemblies.net472.1.0.2/build/.NETFramework/v4.7.2/System.Workflow.Runtime.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/Microsoft.NETFramework.ReferenceAssemblies.net472.1.0.2/build/.NETFramework/v4.7.2/System.WorkflowServices.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/Microsoft.NETFramework.ReferenceAssemblies.net472.1.0.2/build/.NETFramework/v4.7.2/System.WorkflowServices.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/Microsoft.NETFramework.ReferenceAssemblies.net472.1.0.2/build/.NETFramework/v4.7.2/System.Xaml.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/Microsoft.NETFramework.ReferenceAssemblies.net472.1.0.2/build/.NETFramework/v4.7.2/System.Xaml.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/Microsoft.NETFramework.ReferenceAssemblies.net472.1.0.2/build/.NETFramework/v4.7.2/System.Xml.Linq.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/Microsoft.NETFramework.ReferenceAssemblies.net472.1.0.2/build/.NETFramework/v4.7.2/System.Xml.Linq.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/Microsoft.NETFramework.ReferenceAssemblies.net472.1.0.2/build/.NETFramework/v4.7.2/System.Xml.Serialization.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/Microsoft.NETFramework.ReferenceAssemblies.net472.1.0.2/build/.NETFramework/v4.7.2/System.Xml.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/Microsoft.NETFramework.ReferenceAssemblies.net472.1.0.2/build/.NETFramework/v4.7.2/System.Xml.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/Microsoft.NETFramework.ReferenceAssemblies.net472.1.0.2/build/.NETFramework/v4.7.2/System.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/Microsoft.NETFramework.ReferenceAssemblies.net472.1.0.2/build/.NETFramework/v4.7.2/System.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/Microsoft.NETFramework.ReferenceAssemblies.net472.1.0.2/build/.NETFramework/v4.7.2/UIAutomationClient.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/Microsoft.NETFramework.ReferenceAssemblies.net472.1.0.2/build/.NETFramework/v4.7.2/UIAutomationClient.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/Microsoft.NETFramework.ReferenceAssemblies.net472.1.0.2/build/.NETFramework/v4.7.2/UIAutomationClientsideProviders.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/Microsoft.NETFramework.ReferenceAssemblies.net472.1.0.2/build/.NETFramework/v4.7.2/UIAutomationClientsideProviders.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/Microsoft.NETFramework.ReferenceAssemblies.net472.1.0.2/build/.NETFramework/v4.7.2/UIAutomationProvider.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/Microsoft.NETFramework.ReferenceAssemblies.net472.1.0.2/build/.NETFramework/v4.7.2/UIAutomationProvider.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/Microsoft.NETFramework.ReferenceAssemblies.net472.1.0.2/build/.NETFramework/v4.7.2/UIAutomationTypes.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/Microsoft.NETFramework.ReferenceAssemblies.net472.1.0.2/build/.NETFramework/v4.7.2/UIAutomationTypes.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/Microsoft.NETFramework.ReferenceAssemblies.net472.1.0.2/build/.NETFramework/v4.7.2/WindowsBase.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/Microsoft.NETFramework.ReferenceAssemblies.net472.1.0.2/build/.NETFramework/v4.7.2/WindowsBase.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/Microsoft.NETFramework.ReferenceAssemblies.net472.1.0.2/build/.NETFramework/v4.7.2/WindowsFormsIntegration.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/Microsoft.NETFramework.ReferenceAssemblies.net472.1.0.2/build/.NETFramework/v4.7.2/WindowsFormsIntegration.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/Microsoft.NETFramework.ReferenceAssemblies.net472.1.0.2/build/.NETFramework/v4.7.2/XamlBuildTask.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/Microsoft.NETFramework.ReferenceAssemblies.net472.1.0.2/build/.NETFramework/v4.7.2/XamlBuildTask.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/Microsoft.NETFramework.ReferenceAssemblies.net472.1.0.2/build/.NETFramework/v4.7.2/mscorlib.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/Microsoft.NETFramework.ReferenceAssemblies.net472.1.0.2/build/.NETFramework/v4.7.2/mscorlib.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/Microsoft.NETFramework.ReferenceAssemblies.net472.1.0.2/build/.NETFramework/v4.7.2/namespaces.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/Microsoft.NETFramework.ReferenceAssemblies.net472.1.0.2/build/.NETFramework/v4.7.2/sysglobl.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/Microsoft.NETFramework.ReferenceAssemblies.net472.1.0.2/build/.NETFramework/v4.7.2/sysglobl.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/Microsoft.NETFramework.ReferenceAssemblies.net472.1.0.2/build/Microsoft.NETFramework.ReferenceAssemblies.net472.targets" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.ExemplePlugin/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.ExemplePlugin/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ExemplePlugin.sln.DotSettings.user" beforeDir="false" afterPath="$PROJECT_DIR$/ExemplePlugin.sln.DotSettings.user" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ExemplePlugin/Class1.cs" beforeDir="false" afterPath="$PROJECT_DIR$/ExemplePlugin/BaseExemple.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ExemplePlugin/CommandTest.cs" beforeDir="false" afterPath="$PROJECT_DIR$/ExemplePlugin/CommandExemple.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExemplePlugin/BaseExemple.cs" beforeDir="false" afterPath="$PROJECT_DIR$/ExemplePlugin/BaseExemple.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExemplePlugin/CommandExemple.cs" beforeDir="false" afterPath="$PROJECT_DIR$/ExemplePlugin/CommandExemple.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ExemplePlugin/ExemplePlugin.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/ExemplePlugin/ExemplePlugin.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExemplePlugin/obj/Debug/ExemplePlugin.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/ExemplePlugin/obj/Debug/ExemplePlugin.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExemplePlugin/obj/Debug/ExemplePlugin.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/ExemplePlugin/obj/Debug/ExemplePlugin.csproj.FileListAbsolute.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ExemplePlugin/obj/Debug/ExemplePlugin.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/ExemplePlugin/obj/Debug/ExemplePlugin.csprojAssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExemplePlugin/obj/Debug/ExemplePlugin.dll" beforeDir="false" afterPath="$PROJECT_DIR$/ExemplePlugin/obj/Debug/ExemplePlugin.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExemplePlugin/obj/Debug/ExemplePlugin.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/ExemplePlugin/obj/Debug/ExemplePlugin.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Librairies/Assembly-CSharp.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Librairies/Assembly-CSharp.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Librairies/Newtonsoft.Json.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Librairies/Newtonsoft.Json.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Librairies/SDG.NetTransport.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Librairies/SDG.NetTransport.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Librairies/System.Data.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Librairies/System.Data.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Librairies/System.Transactions.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Librairies/System.Transactions.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Librairies/System.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Librairies/System.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Librairies/UnityEngine.CoreModule.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Librairies/UnityEngine.CoreModule.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Librairies/UnityEngine.PhysicsModule.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Librairies/UnityEngine.PhysicsModule.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Librairies/UnityEngine.UI.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Librairies/UnityEngine.UI.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Librairies/UnityEngine.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Librairies/UnityEngine.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Librairies/com.rlabrecque.steamworks.net.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Librairies/com.rlabrecque.steamworks.net.dll" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -437,10 +30,13 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/Librairies" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="Toolset" />
   </component>
   <component name="ProjectId" id="1xoOi4QfOBo8UlYdGPAboATnb6q" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -448,16 +44,17 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "/home/web-log4j/RiderProjects/PluginExemple/Librairies/UnityEngine.UI.dll",
-    "rider.run.widget.enabled.cache": "false",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/web-log4j/RiderProjects/PluginExemple/Librairies/UnityEngine.UI.dll&quot;,
+    &quot;rider.run.widget.enabled.cache&quot;: &quot;false&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;SolutionBuilderGeneralOptionsPage&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager">
     <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
       <option name="allowRunningInParallel" value="false" />
@@ -482,7 +79,19 @@
       <workItem from="1631021910999" duration="1494000" />
       <workItem from="1631429972193" duration="644000" />
       <workItem from="1655726234887" duration="756000" />
+      <workItem from="1656313899574" duration="174000" />
+      <workItem from="1657477000943" duration="7466000" />
+      <workItem from="1657484894930" duration="215000" />
+      <workItem from="1657528183580" duration="2893000" />
     </task>
+    <task id="LOCAL-00001" summary="Change">
+      <created>1656314061737</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1656314061737</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -508,5 +117,7 @@
       <path value="$PROJECT_DIR$" />
     </ignored-roots>
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+    <MESSAGE value="Change" />
+    <option name="LAST_COMMIT_MESSAGE" value="Change" />
   </component>
 </project>
