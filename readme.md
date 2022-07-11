@@ -6,7 +6,7 @@
 
 lien direct de téléchargement [ici](https://visualstudio.microsoft.com/fr/thank-you-downloading-visual-studio/?sku=Community&channel=Release&version=VS2022&source=VSLandingPage&cid=2030&passive=false)
 
-Une fois arrivé à l’étape ****`Choisir les charges de travail`** il faudra sélectionner `.NET desktop development` :
+Une fois arrivé à l’étape **`Choisir les charges de travail`** il faudra sélectionner `.NET desktop development` :
 
 ![Untitled](Project%20Aspect%20252252b2b3f44e7bbc277036d151fe30/Untitled.png)
 
@@ -40,7 +40,7 @@ Une fois terminé vous devrez avoir un truc du style :
 
 ![Untitled](Project%20Aspect%20252252b2b3f44e7bbc277036d151fe30/Untitled%205.png)
 
-La partie de droite est votre explorateur de solution, c’est ici que ce trouve vos codes source et vos dépendances (=références). Vous pouvez accéder au fichiers en cliquant sur votre solution et cliquer sur `Ouvrir le dossier dans l'explorateur de fichiers`
+La partie de droite est votre explorateur de solution, c’est ici que ce trouve vos codes sources et vos dépendances (=références). Vous pouvez accéder au fichiers en cliquant sur votre solution et cliquer sur `Ouvrir le dossier dans l'explorateur de fichiers`
 
 ![Untitled](Project%20Aspect%20252252b2b3f44e7bbc277036d151fe30/Untitled%206.png)
 
