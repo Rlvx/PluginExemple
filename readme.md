@@ -79,7 +79,7 @@ Perso je supprime pour ne garder que mon plugin
 
 ## Cinquième étape : Import de nos librairies dans Rocket
 
-Nous arrivons à la dernière étape avant le lancement du serveur, l’import des librairies dans Rocket. Copier le contenu du dossier Librairies de votre solution ([ici](https://www.notion.so/Project-Aspect-28700373ee574643a7a8fd1f22f75330)) dans le dossier Librairies de rocket (`Servers/Rocket/Librairies`):
+Nous arrivons à la dernière étape avant le lancement du serveur, l’import des librairies dans Rocket. Copier le contenu du dossier Librairies **de votre solution (C#)** dans le dossier Librairies de rocket (`Servers/Rocket/Librairies`):
 
 ![Untitled](Project%20Aspect%20252252b2b3f44e7bbc277036d151fe30/Untitled%2013.png)
 
