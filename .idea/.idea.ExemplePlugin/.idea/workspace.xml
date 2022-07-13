@@ -2,27 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f5aedcb7-34e7-459d-8525-e4f79efc65b8" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/ExemplePlugin/Destroy.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ExemplePlugin/Frezze.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ExemplePlugin/MessagesConnexion.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ExemplePlugin/Tazer.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.ExemplePlugin/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.ExemplePlugin/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ExemplePlugin.sln.DotSettings.user" beforeDir="false" afterPath="$PROJECT_DIR$/ExemplePlugin.sln.DotSettings.user" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ExemplePlugin/BaseExemple.cs" beforeDir="false" afterPath="$PROJECT_DIR$/ExemplePlugin/BaseExemple.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ExemplePlugin/CommandExemple.cs" beforeDir="false" afterPath="$PROJECT_DIR$/ExemplePlugin/CommandExemple.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ExemplePlugin/ExemplePlugin.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/ExemplePlugin/ExemplePlugin.csproj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ExemplePlugin/obj/Debug/ExemplePlugin.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/ExemplePlugin/obj/Debug/ExemplePlugin.csproj.CoreCompileInputs.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ExemplePlugin/obj/Debug/ExemplePlugin.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/ExemplePlugin/obj/Debug/ExemplePlugin.csproj.FileListAbsolute.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ExemplePlugin/obj/Debug/ExemplePlugin.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/ExemplePlugin/obj/Debug/ExemplePlugin.csprojAssemblyReference.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ExemplePlugin/obj/Debug/ExemplePlugin.dll" beforeDir="false" afterPath="$PROJECT_DIR$/ExemplePlugin/obj/Debug/ExemplePlugin.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ExemplePlugin/obj/Debug/ExemplePlugin.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/ExemplePlugin/obj/Debug/ExemplePlugin.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Librairies/Assembly-CSharp.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Librairies/Assembly-CSharp.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Librairies/Newtonsoft.Json.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Librairies/Newtonsoft.Json.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Librairies/SDG.NetTransport.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Librairies/SDG.NetTransport.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Librairies/System.Data.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Librairies/System.Data.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Librairies/System.Transactions.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Librairies/System.Transactions.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Librairies/System.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Librairies/System.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Librairies/UnityEngine.CoreModule.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Librairies/UnityEngine.CoreModule.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Librairies/UnityEngine.PhysicsModule.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Librairies/UnityEngine.PhysicsModule.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Librairies/UnityEngine.UI.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Librairies/UnityEngine.UI.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Librairies/UnityEngine.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Librairies/UnityEngine.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Librairies/com.rlabrecque.steamworks.net.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Librairies/com.rlabrecque.steamworks.net.dll" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,6 +17,10 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/e11a367d99194f38835fa3dcea8a429d36dec0/77/95e37c84/PlayerLife.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/e60bee30f4414fd983244834232de1cf17800/c7/9fa2c60a/U.cs" root0="SKIP_HIGHLIGHTING" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -83,6 +73,9 @@
       <workItem from="1657477000943" duration="7466000" />
       <workItem from="1657484894930" duration="215000" />
       <workItem from="1657528183580" duration="2893000" />
+      <workItem from="1657531747700" duration="548000" />
+      <workItem from="1657736702307" duration="124000" />
+      <workItem from="1657737762948" duration="4094000" />
     </task>
     <task id="LOCAL-00001" summary="Change">
       <created>1656314061737</created>
@@ -91,7 +84,14 @@
       <option name="project" value="LOCAL" />
       <updated>1656314061737</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Fix bug">
+      <created>1657531771435</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1657531771435</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -118,6 +118,7 @@
     </ignored-roots>
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
     <MESSAGE value="Change" />
-    <option name="LAST_COMMIT_MESSAGE" value="Change" />
+    <MESSAGE value="Fix bug" />
+    <option name="LAST_COMMIT_MESSAGE" value="Fix bug" />
   </component>
 </project>
